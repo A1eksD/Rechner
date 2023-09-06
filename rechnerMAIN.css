@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+.posMAINbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.MAINbox{
+    width: 254px;
+    height: 180px;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.inputNumber{
+    width: 34px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+
+.btnBerechnen{
+    margin: 8px;
+    width: 80px;
+    border-radius: 5px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.posBtnBerechnen{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}
